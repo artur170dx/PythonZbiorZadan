@@ -1,0 +1,3 @@
+", ".join(list) The string whose method is called is inserted in between each given string.
+
+if/while value not in range(1, 10): - nice way to check if value is in or not within a range

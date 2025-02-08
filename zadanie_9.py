@@ -1,6 +1,6 @@
-# Pobierz liczbę całkowitą z klawiatury i wykonaj na niej poniższe operacje: jeżeli 
-# liczba była ujemna, zmniejsz ją o 1; jeżeli liczba była dodatnia, zwiększ ją o 1; jeżeli 
-# była zerem, pozostaw bez zmian; Wyświetl liczbę po zmianach [1]. Następnie określ 
+# Pobierz liczbę całkowitą z klawiatury i wykonaj na niej poniższe operacje: jeżeli
+# liczba była ujemna, zmniejsz ją o 1; jeżeli liczba była dodatnia, zwiększ ją o 1; jeżeli
+# była zerem, pozostaw bez zmian; Wyświetl liczbę po zmianach [1]. Następnie określ
 # parzystość liczby po zmianach i wyświetl informację na ten temat za pomocą ade
 # kwatnego komunikatu [1].
 
