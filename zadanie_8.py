@@ -2,6 +2,7 @@ a = float(input("a: "))
 b = float(input("b: "))
 operator = input("Arithmetic sign: ")
 
+
 def calculate(a, b, operator):
     match operator:
         case "+":
@@ -15,6 +16,7 @@ def calculate(a, b, operator):
             return a / b
         case "*":
             return a * b
+
 
 result_1 = calculate(a, b, operator)
 result_2 = calculate(b, a, operator)
