@@ -1,3 +1,19 @@
 ", ".join(list) The string whose method is called is inserted in between each given string.
 
+
 if/while value not in range(1, 10): - nice way to check if value is in or not within a range
+
+
+list.count(element) - Return number of occurrences of value.
+
+ map(function, iterable, *iterables)  - Return an iterator that applies function to every item of iterable, yielding the results.
+
+
+all(iterable)
+Return True if all elements of the iterable are true (or if the iterable is empty). Equivalent to:
+def all(iterable):
+    for element in iterable:
+        if not element:
+            return False
+    return True
+
